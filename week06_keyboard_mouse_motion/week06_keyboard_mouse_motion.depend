@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1648454558 source:c:\users\administrator\desktop\week06_keyboard_mouse_motion\main.cpp
+1648454777 source:c:\users\administrator\desktop\week06_keyboard_mouse_motion\main.cpp
 	<stdio.h>
 	<GL/glut.h>
 
